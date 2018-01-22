@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Spatial;
-using System.Threading.Tasks;
-using AndroidGPSExample.Api.Models;
+﻿using AndroidGPSExample.Api.Models;
 using AndroidGPSExample.Domain;
 using AndroidGPSExample.Domain.Contract;
 using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace AndroidGPSExample.Api.Controllers
 {
